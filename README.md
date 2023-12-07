@@ -1,2 +1,1 @@
-# Phone_book
-To get &amp; save clients' phone numbers
+Contact list is saved in a dictionary. Within 5 attempts, contacts can be retrieved. User's name is inserted to get the number. If the user's name doesn't match, one can update phone book by adding the new user's number.
